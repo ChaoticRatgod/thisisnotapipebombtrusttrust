@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "pipebombtrust:detonator"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    " IG",
+    "IDI",
+    "GI "
+  ],
+  "result": {
+    "item": "pipebombtrust:pipebomb"
+  },
+  "show_notification": true
+}
